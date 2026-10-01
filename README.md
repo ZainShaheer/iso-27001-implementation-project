@@ -5,25 +5,23 @@ ISMS Implementation Project Plan was created by me during a GRC training program
 
 ISMS Implementation Project Plan outlines how the fictional company VAPT-Tech Solutions Inc. would approach implementing an Information Security Management System aligned with ISO/IEC 27001.
 
-The full plan is in Project-Plan.md.
-
 𝐍𝐎𝐓𝐄: All names, dates and details are fictional; this was a training exercise.
 
 𝐖𝐡𝐚𝐭 𝐭𝐡𝐞 𝐩𝐥𝐚𝐧 𝐜𝐨𝐯𝐞𝐫𝐬:
 
-Project objective and scope. Implementing an ISMS by March 2027
+ • Project objective and scope. Implementing an ISMS by March 2027
 
-13 deliverables. Including the Information Security Policy, Risk Assessment & Treatment documents, Statement of Applicability and key procedures
+• 13 deliverables. Including the Information Security Policy, Risk Assessment & Treatment documents, Statement of Applicability and key procedures
 
-Deadlines. A milestone schedule for each document
+• Deadlines. A milestone schedule for each document
 
-Roles and responsibilities. Project sponsor, project manager and cross‑functional team
+• Roles and responsibilities. Project sponsor, project manager and cross‑functional team
 
-Project risks. Identified risks and mitigation measures
+• Project risks. Identified risks and mitigation measures
 
-Communication plan. Internal and external stakeholder communication
+• Communication plan. Internal and external stakeholder communication
 
-Records management. What to keep, where and for how long
+• Records management. What to keep, where and for how long
 
 𝐂𝐨𝐧𝐭𝐞𝐱𝐭
 
