@@ -1,4 +1,3 @@
-
 𝐈𝐒𝐎 𝟐𝟕𝟎𝟎𝟏 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐏𝐥𝐚𝐧
 
 ISMS Implementation Project Plan was created by me during a GRC training program.
